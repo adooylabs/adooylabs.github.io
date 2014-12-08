@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:    Adooylabs
-tagline:          'Softwares and Startups'
-description:    "I'm Audee Velasco. A ruby developer who is also learning other bunch of stuff like AngularJS, Objective-C and Swift; Art and Photography; Business and Entreprenuership."
+title: Adooylabs
+tagline:  Softwares and Startups
+description:    "I'm Audee Velasco, a software developer. A self-proclaimed polyglot working with ruby, javascript, and iOS. And this is my rumblings about app developement, and growing a startup. "
 url:              http://blog.adooylabs.com
 baseurl:          /
 
