@@ -20,4 +20,4 @@ print_msg('How are you?')
 #=> prints 'Hello, World! How are you?' to STDOUT
 {% endhighlight %}
 
-So, yeah. I'm pretty excited about my new setup. If you have tips and tricks on `Jekyll`. Live a comment below.
+So, yeah. I'm  excited about my new setup. If you have tips and tricks on `Jekyll`. Leave a comment below.
