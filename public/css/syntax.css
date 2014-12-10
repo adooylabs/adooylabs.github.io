@@ -64,3 +64,9 @@
 .css .o,
 .css .o + .nt,
 .css .nt + .nt { color: #999; }
+
+.linenos{
+  text-align: center;
+  background: #EFEFEF !important;
+  color: #CCCCCC;
+}
