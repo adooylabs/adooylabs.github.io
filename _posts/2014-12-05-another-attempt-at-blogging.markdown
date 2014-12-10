@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Another Attempt at Blogging"
+title: "Another Attempt at Blogging with Jekyll"
 date: 2014-12-05 13:20:00
 categories: misc
 ---
@@ -11,7 +11,7 @@ Along came Jekyll, a ruby gem that generates static website. Transforming markdo
 I think 'Jekyll' is perfect for developers. You can use your favorite`text-editor` to write post and pages, and `git` to deploy your latest changes. It also comes with a good syntax highlighter with
 `Pygments` or `Rouge`.
 
-{% highlight ruby linenos=table hl_lines=5 %}
+{% highlight ruby linenos=table %}
 def print_msg(message)
   puts "Hello, World!  #{message}"
 end
