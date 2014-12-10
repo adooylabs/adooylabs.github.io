@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title: adooylabs
 tagline:  Softwares and Startups
-description:    "I'm Audee Velasco, a software developer. A self-proclaimed polyglot working with ruby, javascript, and iOS. And this is my rumblings about app developement, and growing a startup. "
+description:    "I'm Audee Velasco, a software developer. A self-proclaimed polyglot working with ruby, javascript, and iOS. And this is my rumblings about app development, and growing a startup. "
 url:              http://blog.adooylabs.com
 baseurl:          /
 
