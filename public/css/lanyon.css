@@ -40,7 +40,12 @@ body {
   overflow-x: hidden;
 }
 
+html{
+  font-family: "Open Sans",Helvetica,Arial,sans-serif;
+}
+
 h1, h2, h3, h4, h5, h6 {
+  font-family: "PT Sans",Helvetica,Arial,sans-serif;
   color: #313131;
   letter-spacing: -.025rem;
   font-weight: 400;
@@ -301,7 +306,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #113C62;
+  color: #164D7C;
 }
 .page-title,
 .post-title {
