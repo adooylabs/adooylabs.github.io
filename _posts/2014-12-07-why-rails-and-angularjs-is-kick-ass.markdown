@@ -11,11 +11,11 @@ But, I wasn't too sure about how I would implement the front-end for the web app
 
 But, after hours of putting my mind into it and started learning. I had a change of heart. What made me change my mind?  Well, aside from its ever growing community, contributors, and plugin. Here's a few of its features that I think unique to **angularjs**:
 
-+ Two Way Data-Binding - this mean that angular automatically synchronize all data between your model and view components. This also means no more elaborate callback code to update your view.
++ **Two Way Data-Binding** - this mean that angular automatically synchronize all data between your model and view components. This also means no more elaborate callback code to update your view.
 
-+ Directives - this is basically a marker on your html code that tells angular what is it function or relation. You can even write your own directive or submit it as a plugin.
++ **Directives** - this is basically a marker on your html code that tells angular what is it function or relation. You can even write your own directive or submit it as a plugin.
 
-+ Dependency Injection - a good way of keeping track of dependencies, and make testing easier.
++ **Dependency Injection** - a good way of keeping track of dependencies, and make testing easier.
 
 Overall, it is a great client-side framework. Great for creating "single-page applications" or SPA.  There is a little bit of learning curve but once you get a good grasp on directives, the scope, and how code is organized with modules and injections you should be pretty comfortable after that.
 
