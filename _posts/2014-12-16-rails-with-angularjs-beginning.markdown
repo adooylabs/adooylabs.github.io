@@ -83,6 +83,6 @@ cucumber:
   <<: *test
 {% endhighlight %}
 
-Once this is configured, our next step is to build the `API` backend. We will be creating our *models* and *controllers*.
+Once this is configured, our next step is to build frontent wireframe, and play around a bit with angularjs.
 
 next: [Rails with AngularJS: Frontend]({% post_url 2014-12-17-rails-with-angularjsfrontend %})
