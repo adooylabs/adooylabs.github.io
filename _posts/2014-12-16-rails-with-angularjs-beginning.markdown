@@ -38,13 +38,6 @@ gem 'sass-rails', '~> 4.0.3'
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .js.coffee assets and views
 gem 'coffee-rails', '~> 4.0.0'
-# See https://github.com/sstephenson/execjs#readme for more supported runtimes
-# gem 'therubyracer',  platforms: :ruby
-
-# Use jquery as the JavaScript library
-gem 'jquery-rails'
-# Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
-gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
 # Use unicorn as the app server
@@ -61,12 +54,12 @@ Now that we have a basic gems in the `Gemfile`, let's install them with:
 
 Don't also forget to configure your `database.yml`
 
-{% highlight yaml linenos %}
+{% highlight yaml %}
 development:
   adapter: postgresql
   host: localhost
   port: 5432
-  database:contactlist_development
+  database: contactlist_development
   schema_search_path: public
   encoding: utf8
   template: template0
@@ -92,4 +85,4 @@ cucumber:
 
 Once this is configured, our next step is to build the `API` backend. We will be creating our *models* and *controllers*.
 
-next: [Rails with AngularJS: Backend]({% post_url 2014-12-17-rails-with-angularjs-backend %})
+next: [Rails with AngularJS: Frontend]({% post_url 2014-12-17-rails-with-angularjsfrontend %})
