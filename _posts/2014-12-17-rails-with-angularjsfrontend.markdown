@@ -68,6 +68,8 @@ And link **bootstrap** in your `application.css`:
 
 We need to know if we got our setup right. One way to do it, is to check the **Network Tab** on the firefox dev tools.
 
+![dev tools - network tab](https://s3-us-west-2.amazonaws.com/blog-adooylabs/images/network_dev_tools.png)
+
 Or we can create a simple app to check if `angular` and `bootstrap` is working properly. Open and edit your view in `views/home/index.html.haml`:
 
 {% highlight haml %}
@@ -86,5 +88,9 @@ Open and edit `home.js.coffee` to initiliaze the angular app with this line of c
 {% highlight coffee %}
 contactlist = angular.module('contactlist',[])
 {% endhighlight %}
+
+Let's see if you got our small angular app is working. When typing a text on the textfield input it should show a message like this:
+
+![simple angular app](https://s3-us-west-2.amazonaws.com/blog-adooylabs/images/simple_angular_app.png)
 
 Yay we nailed! Next stop will be creating our wireframe for our ContactList App.
