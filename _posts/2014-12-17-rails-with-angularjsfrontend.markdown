@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rails with AngularJS:Frontend"
+title: "Rails with AngularJS: Frontend Setup"
 date: "2014-12-17"
 ---
 Earlier we have setup basic configuration as a starting point of our rails app. If you haven't read it yet, you can find it here ["Rails with AngularJS:Beginning"]({% post_url 2014-12-16-rails-with-angularjs-beginning %})
