@@ -72,7 +72,7 @@ We need to know if we got our setup right. One way to do it, is to check the **N
 
 Or we can create a simple app to check if `angular` and `bootstrap` is working properly. Open and edit your view in `views/home/index.html.haml`:
 
-{% highlight haml %}
+{% highlight haml linenos %}
 .container-fluid{"ng-app" => "contactlist"}
   .panel.panel-success
     .panel-heading
