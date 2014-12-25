@@ -3,7 +3,7 @@ layout: post
 title: "Rails with AngularJS: Frontend Setup"
 date: "2014-12-17"
 ---
-Earlier we have setup basic configuration as a starting point of our rails app. If you haven't read it yet, you can find it here ["Rails with AngularJS:Beginning"]({% post_url 2014-12-16-rails-with-angularjs-beginning %})
+Previously, we have setup basic configuration as a starting point of our rails app. If you haven't read it yet, you can find it here ["Rails with AngularJS:Beginning"]({% post_url 2014-12-16-rails-with-angularjs-beginning %})
 
 We are going to build our front-end first, In the form an AngularJS app. Normally I do build backend first in the pre-angular era. But, recently I notice a shift in my workflow. I will explain the reasons why this became my preference as this tutorial goes on.
 
