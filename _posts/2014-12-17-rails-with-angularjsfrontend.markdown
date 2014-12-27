@@ -76,7 +76,8 @@ Or we can create a simple app to check if `angular` and `bootstrap` is working p
 .container-fluid{"ng-app" => "contactlist"}
   .panel.panel-success
     .panel-heading
-      %h1{"ng-if" => "name"} Hello, {{ name }}
+      %h1{"ng-if" => "name"}
+        {% raw %}Hello, {{ name }}{% endraw %}
     .panel-body
       %form.form-inline
         .form-group
