@@ -10,6 +10,8 @@ to be an interesting find. Meteor has a lot of potential and the future looks pr
 
 The future is real-time, the futre is one code fits all. And Meteor has these features and I came to appreciate and like. 
 
+![meteor logo](https://s3-us-west-2.amazonaws.com/blog-adooylabs/images/og-image-logo.png)
+
 ## Installation
 
 On you linux or unix machines install the latest official Meteor release from your terminal:
@@ -36,5 +38,5 @@ Then type `meteor` to run it locally and should see this in you terminal:
 => App running at: http://localhost:3000/
 {% endhighlight %}
 
-Visit 'http://localhost:3000/' on your favorite browser and there you go, your very first meteor app.
+Visit `http://localhost:3000/` on your favorite browser and there you go, your very first meteor app.
     
