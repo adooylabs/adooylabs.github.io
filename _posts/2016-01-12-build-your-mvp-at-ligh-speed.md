@@ -1,7 +1,7 @@
---
+---
 layout: post
 title: "Build Your App at light speed"
-date: "2014-12-29"
+date: "2016-01-12"
 ---
 
 It's been a year now that I have been playing with MeteorJS 
